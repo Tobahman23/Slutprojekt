@@ -1,0 +1,127 @@
+
+
+#g1
+{
+    background-image:url('bilder/map.jpg');
+    
+    margin-left: 5%;
+    margin-right:5%;
+
+}
+#g11
+{
+    background-image:url('bilder/map.jpg');
+    
+    margin-left: 5%;
+    margin-right:5%;
+
+}
+#g2
+{
+    background-image:url('bilder/map.jpg');
+    margin-left: 5%;
+    margin-right:5%;
+
+}
+#g21
+{
+    background-image:url('bilder/map.jpg');
+    margin-left: 5%;
+    margin-right:5%;
+
+}
+#g3
+{
+    background-image:url('bilder/map.jpg');
+    margin-left: 5%;
+    margin-right:5%;
+
+}
+#g31
+{
+    background-image:url('bilder/map.jpg');
+    margin-left: 5%;
+    margin-right:5%;
+
+}
+#weatherboi
+{
+    background-image:url('bilder/map.jpg');
+    margin-left: 5%;
+    margin-right:5%;
+}
+#userdisplay
+{
+    background-image:url('bilder/map.jpg');
+    margin-left:10%;
+    margin-right:10%;
+    margin-top:1%;
+    padding-left:30%;
+    padding-right:30%;
+    border:5px double black;
+}
+.navbar{
+    background-image:url('bilder/map.jpg');
+    border-bottom:2px solid black;
+}
+#sign
+{
+    background-image:url('bilder/map.jpg');
+    margin-left:25%;
+    margin-right:25%;
+    margin-top:8%;
+    padding-bottom:6%;
+    padding-top:6%;
+    border:8px double black;
+}
+#log
+{
+    background-image:url('bilder/map.jpg');
+    margin-left:25%;
+    margin-right:25%;
+    margin-top:8%;
+    padding-bottom:6%;
+    padding-top:6%;
+    border:8px double black;
+}
+#utloggad
+{
+    background-image:url('bilder/map.jpg');
+    margin-top:5%;
+    padding:5%;
+    margin-right:5%;
+    margin-left:5%;
+}
+#bestplace{
+    background-image:url('bilder/map.jpg');
+    margin-top:2%;
+    margin-left:5%;
+    margin-right:5%;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+#riksdag{
+    background-image:url('bilder/map.jpg');
+    margin-top:2%;
+    margin-left:5%;
+    margin-right:5%;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+#burgers{
+    background-image:url('bilder/map.jpg');
+    margin-top:2%;
+    margin-left:5%;
+    margin-right:5%;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+#use{
+    padding-bottom:5%;
+}
+
+body{
+    background-image:url('bilder/loop.gif');
+    background-repeat:repeat-y;
+    background-size:cover;
+}
